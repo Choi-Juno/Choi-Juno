@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-🔭 I'm currently studying on **AI/ML projects**  
-🌱 I'm currently learning **Advanced FrontEnd/Backend**
-📫 How to reach me: **sojae0306@gmail.com**  
+🔭 I'm currently studying on **AI/ML projects**  <br />
+🌱 I'm currently learning **Advanced FrontEnd/Backend** <br />
+📫 How to reach me: **sojae0306@gmail.com**  <br />
 
 </div>
 
