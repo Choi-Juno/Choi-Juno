@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=a7c080&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Always+learning+something+new+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=a7c080&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Algorithm+Problem+Solver+%F0%9F%A7%A9"/>
 </div>
 
 <!-- About Me Section -->
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-🔭 I'm currently studying on **AI/ML projects**  <br />
-🌱 I'm currently learning **Advanced FrontEnd/Backend** <br />
-📫 How to reach me: **sojae0306@gmail.com**  <br />
+🔭 I'm currently studying on **AI/ML projects**  
+🌱 I'm currently learning **Advanced Frontend/Backend**\
+📫 How to reach me: **sojae0306@gmail.com**  
 
 </div>
 
@@ -66,16 +66,24 @@
 
 </div>
 
+<!-- Baekjoon Stats Section -->
+<div align="center">
+
+## 🧩 Algorithm Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojae0306)](https://solved.ac/sojae0306/)
+
+<img src="http://mazandi.herokuapp.com/api?handle=sojae0306&theme=warm"/>
+
+</div>
+
 <!-- Projects Section -->
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Choi-Juno/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choi-Juno&repo=your-project-1&theme=dark&bg_color=2d353b&title_color=a7c080&text_color=d3c6aa&icon_color=83c092&border_color=543a48"/>
-</a>
-<a href="https://github.com/Choi-Juno/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choi-Juno&repo=your-project-2&theme=dark&bg_color=2d353b&title_color=a7c080&text_color=d3c6aa&icon_color=83c092&border_color=543a48"/>
+<a href="https://github.com/Choi-Juno/Baekjoon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choi-Juno&repo=Baekjoon&theme=dark&bg_color=2d353b&title_color=a7c080&text_color=d3c6aa&icon_color=83c092&border_color=543a48"/>
 </a>
 
 </div>
@@ -104,8 +112,8 @@
 <a href="https://github.com/Choi-Juno">
     <img src="https://img.shields.io/badge/GitHub-543a48?style=for-the-badge&logo=github&logoColor=d3c6aa"/>
 </a>
-<a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-a7c080?style=for-the-badge&logo=google-chrome&logoColor=2d353b"/>
+<a href="https://solved.ac/sojae0306">
+    <img src="https://img.shields.io/badge/Solved.ac-a7c080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMkQzNTNCIi8+Cjwvc3ZnPgo=&logoColor=2d353b"/>
 </a>
 
 </div>
@@ -118,4 +126,4 @@
 <!-- Footer -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&gradient=a7c080,83c092,d3c6aa"/>
-</div>
+</div> 
