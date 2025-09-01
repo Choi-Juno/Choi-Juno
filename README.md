@@ -14,10 +14,8 @@
 ## 👨‍💻 About Me
 
 🔭 I'm currently studying on **AI/ML projects**  
-🌱 I'm currently learning **Advanced React Native & SwiftUI**  
-💬 Ask me about **React, Swift, PyTorch, Firebase**  
+🌱 I'm currently learning **Advanced FrontEnd/Backend**
 📫 How to reach me: **sojae0306@gmail.com**  
-⚡ Fun fact: **I love solving algorithm problems! 🧩**
 
 </div>
 
